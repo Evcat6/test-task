@@ -23,7 +23,3 @@ jobs:
         run: npm run build
       - name: run tests
         run: npm run test
-      - name: run preview 
-        run: npm run preview
-      - name: start project
-        run: npm start
